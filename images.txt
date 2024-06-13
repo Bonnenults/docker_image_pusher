@@ -17,3 +17,6 @@ wiznote/wizserver
 hsuyelin/nas-tools
 gdy666/lucky
 sanjusss/aliyun-ddns
+whyour/qinglong
+btpanel/baota
+louislam/dockge
