@@ -18,3 +18,4 @@ louislam/dockge
 hectorqin/reader
 photoprism/photoprism
 jxxghp/moviepilot
+easychen/cookiecloud
