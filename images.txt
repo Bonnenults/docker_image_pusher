@@ -16,3 +16,5 @@ whyour/qinglong
 btpanel/baota
 louislam/dockge
 hectorqin/reader
+photoprism/photoprism
+jxxghp/moviepilot
