@@ -19,3 +19,4 @@ hectorqin/reader
 photoprism/photoprism
 jxxghp/moviepilot
 easychen/cookiecloud
+dreamacro/clash
