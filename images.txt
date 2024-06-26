@@ -22,3 +22,4 @@ easychen/cookiecloud
 dreamacro/clash
 haishanh/yacd
 kasmweb/firefox:1.15.0-rolling
+jlesage/firefox
