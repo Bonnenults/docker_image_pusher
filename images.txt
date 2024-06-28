@@ -24,3 +24,4 @@ haishanh/yacd
 kasmweb/firefox:1.15.0-rolling
 jlesage/firefox
 linuxserver/transmission
+iyuucn/iyuuplus-dev
